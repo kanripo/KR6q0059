@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.393876
+#+DATE: 2015-08-30 21:44:49.401239
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1997
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6q0059_T_000-0713b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0059_T_013-0771a> 
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 圓悟佛果禪師語錄卷第十三¶
+圓悟佛果禪師語錄卷第十三¶
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-小參六
-:PROPERTIES:
-:head: 小參六
-:END:
-¶
+小參六¶
 
 高郵乾明受勅。住金山龍遊寺。當晚小參。僧¶
 問。明歷歷露堂堂。因什麼乾坤收不得。師云。¶
@@ -357,11 +352,7 @@
 憐松竹引清風。諸人還曾恁麼也未。須是向¶
 此一片田地。淨裸裸赤灑灑方可入作。¶
 
-普說
-:PROPERTIES:
-:head: 普說
-:END:
-¶
+普說¶
 
 告香普說。師示眾云。只這箇便承當得去。如¶
 天普蓋似地普擎。更不欠一毫頭。亦無第二¶
