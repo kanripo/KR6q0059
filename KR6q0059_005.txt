@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.143674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
@@ -17,7 +17,7 @@
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-上堂五
+* 上堂五
 :PROPERTIES:
 :head: 上堂五
 :END:

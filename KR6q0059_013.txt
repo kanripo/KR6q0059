@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.393876
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
@@ -17,7 +17,7 @@
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-小參六
+* 小參六
 :PROPERTIES:
 :head: 小參六
 :END:
@@ -357,7 +357,7 @@
 憐松竹引清風。諸人還曾恁麼也未。須是向¶
 此一片田地。淨裸裸赤灑灑方可入作。¶
 
-普說
+* 普說
 :PROPERTIES:
 :head: 普說
 :END:
