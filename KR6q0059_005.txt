@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.143674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1997
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0059_T_000-0713b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0059_T_005-0733a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 圓悟佛果禪師語錄卷第五¶
+圓悟佛果禪師語錄卷第五¶
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-上堂五
-:PROPERTIES:
-:head: 上堂五
-:END:
-¶
+* 上堂五¶
 
 師在蔣山受勅。拈示眾云。大眾見麼。龍飛¶
 鳳舞降自九重。佛祖綱宗盡在裏許。却請維¶
@@ -345,7 +340,7 @@
 通。於解脫得普門智。所以無剎不現。無處。¶
 不真。或為寶公十二面。或作達磨傳心印。或¶
 向泗洲運神通。或向香山發妙身。周旋往返。¶
-或證三真實。得二殊勝。四不思議。十四無畏。¶
+或證三真實。得二殊勝。四不思義。十四無畏。¶
 三十二應。向娑婆世界獨有大緣。說無說無¶
 窮妙呪現無身。寶王妙身隨類示悲應機赴¶
 感。求饒益得饒益應。求男女得男女應。求如¶

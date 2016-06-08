@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.332780
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1997
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0059_T_000-0713b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0059_T_011-0761a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 圓悟佛果禪師語錄卷第十一¶
+圓悟佛果禪師語錄卷第十一¶
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-小參四
-:PROPERTIES:
-:head: 小參四
-:END:
-¶
+* 小參四¶
 
 住東京天寧寺小參。師云。一見更不再見。今¶
 已再見。一說更不重說今已重說。未有長行¶

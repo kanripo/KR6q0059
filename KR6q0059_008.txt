@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.234470
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1997
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0059_T_000-0713b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0059_T_008-0747a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 圓悟佛果禪師語錄卷第八¶
+圓悟佛果禪師語錄卷第八¶
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-上堂八
-:PROPERTIES:
-:head: 上堂八
-:END:
-¶
+* 上堂八¶
 
 歲旦上堂。元正啟祚打開門戶。萬物維新天¶
 地同春。應時納祐不落窠臼罄無不宜。萬世¶
@@ -170,7 +165,7 @@
 山見水是水時如何。雲門以手劃一劃云。佛¶
 殿為什麼從這裏去。師拈云。似地擎山如石¶
 含玉。透得過者盡在無盡藏中。透不過者未¶
-免摶量。只如雲門以手劃一劃云。佛殿因什¶
+免搏量。只如雲門以手劃一劃云。佛殿因什¶
 麼從這裏去。又且如何。一葉落知天下秋。¶
 
 蔣運使寄雲居山三大字。仍請陞座云。法法¶
@@ -252,11 +247,7 @@
 語。山僧師範作良謀。如斯標致雖清拙。大丈¶
 夫兒合自由。¶
 
-小參一
-:PROPERTIES:
-:head: 小參一
-:END:
-¶
+* 小參一¶
 
 住成都府天寧寺小參。師示眾云。正令已行¶
 十方坐斷。千聖出來亡鋒結舌。雖然如是。事¶

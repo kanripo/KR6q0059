@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.366915
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1997
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0059_T_000-0713b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0059_T_012-0766a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 圓悟佛果禪師語錄卷第十二¶
+圓悟佛果禪師語錄卷第十二¶
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-小參五
-:PROPERTIES:
-:head: 小參五
-:END:
-¶
+* 小參五¶
 
 住雲居山結夏小參。雲居千百眾如無。只緣¶
 內外絕消息。箇中空洞等虛空。殺活全承此¶
@@ -62,7 +57,7 @@
 <pb:KR6q0059_T_012-0766c>¶
 信旗相似。如諸古德未建立許多作略。到這¶
 裏作麼生商量。不假三寸試請說看。不假眼¶
-試觀矚看。不假耳試采聽看。所以道。盡十方¶
+試觀矚看。不假耳試釆聽看。所以道。盡十方¶
 世界。都盧是箇真實人體。更向什麼處著眼¶
 耳鼻舌身意。所以山僧從來向諸人道。塞却¶
 爾眼。教爾覷不見。塞却爾耳。教爾聽不聞。¶

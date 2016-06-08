@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.119248
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1997
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0059_T_000-0713b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0059_T_004-0727c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 圓悟佛果禪師語錄卷第四¶
+圓悟佛果禪師語錄卷第四¶
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-上堂四
-:PROPERTIES:
-:head: 上堂四
-:END:
-¶
+* 上堂四¶
 
 住建康府蔣山。師在潭州道林受請。拈勅黃¶
 示眾云。龍蟠鳳翥鐵畫銀鉤。出自九重從天¶
@@ -259,7 +254,7 @@
 <pb:KR6q0059_T_004-0730b>¶
 咭嘹舌頭。進云。如大火聚近之燎却面門。又¶
 如何親近。師云。只得瞻之仰之。進云。爭奈推¶
-倒嘉州大像。倒騎陝府鐵牛。師云。孟八郎漢。¶
+倒嘉州大像。倒騎陜府鐵牛。師云。孟八郎漢。¶
 師乃云。心不是佛。心與佛俱非。智不是道。智¶
 與道俱遣。到這裏金屑雖貴落眼成翳。珍食¶
 雖美難中飽人。若是向上人。須知向上事。若¶

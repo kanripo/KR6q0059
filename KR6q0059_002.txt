@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:44:48.059653
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 圓悟佛果禪師語錄
 #+PROPERTY: CBETA_ID T47n1997
 #+PROPERTY: ID KR6q0059
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1997
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0059_T_000-0713b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0059_T_002-0718b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 圓悟佛果禪師語錄卷第二¶
+圓悟佛果禪師語錄卷第二¶
 ¶
 宋平江府虎丘山門人紹隆等編¶
 
-上堂二
-:PROPERTIES:
-:head: 上堂二
-:END:
-¶
+* 上堂二¶
 
 上堂。僧問。譬如擲劍揮空。有一人劍亦無。¶
 虛空亦不揮時如何。師云。大眾。見爾敗闕。進¶
